@@ -1,11 +1,11 @@
 # Awesome Ionic 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An "awesome" list of the Ionic 2 resources 
+An "awesome" list of the Ionic 2 resources
 
 ### Ionic 2
 > "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
 
-##### Current Ionic 2 version: 
+##### Current Ionic 2 version:
 [![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
 
 
@@ -48,6 +48,7 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic 2 and Auth0](http://blog.ionic.io/ionic-2-and-auth0/)
 * [Handling a Simple User Authorization](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/)
 * [Authenticate Ionic 2 with WordPress](https://auth0.com/authenticate/ionic2/wordpress)
+* [Satellizer: Token-based AngularJS Authentication](https://github.com/sahat/satellizer)
 
 #### Unit Testing
 * [Ionic 2 Unit Testing](http://lathonez.github.io/2016/ionic-2-unit-testing/)
