@@ -1,7 +1,6 @@
-# Awesome Ionic 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Recursos Ionic
 
-An "awesome" list of the Ionic 2 resources 
-
+Una lista de recursos de Ionic. Que no esta en www.ion-book.com
 ### Ionic 2
 > "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
 
@@ -20,6 +19,11 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
 * [GitHub Repo](https://github.com/driftyco/ionic/)
+
+#### Fundamentos ES6, Typescript, Sass, Cordova, Wepack, Angular
+* [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+* [A Functional Programmer’s Introduction to JavaScript (Composing Software)
+](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 
 #### Ionic 2 Fundamentals
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -113,22 +117,23 @@ An "awesome" list of the Ionic 2 resources
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
-* [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
-* [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
-* [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud)
-* [Ionic Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app)
-* [Ionic Stock Tracking App](https://github.com/ionic2blueprints/ionic2-stockmarket)
-* [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client)
-* [Ionic Media Player](https://github.com/ionic2blueprints/media-player)
-* [Ionic Social App](https://github.com/ionic2blueprints/social-app)
-* [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
+* [Wordpress Hybrid Client](https://github.com/shprink/wordpress-hybrid-client)
 * [Ionic 2 Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components)
+
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
+![paso 1](
+https://media.giphy.com/media/3o7bu695W8AWwNhbQQ/giphy.gif "Paso 1")
+
+![paso 2](
+https://media.giphy.com/media/3ohzdZ2x3Z2d5dygmc/giphy.gif "Paso 2")
+
+![paso 3](
+https://media.giphy.com/media/3oKIPab4GHhlWppguQ/giphy.gif "Paso 3")
 
 #### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
