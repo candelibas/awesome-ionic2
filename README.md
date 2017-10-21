@@ -127,6 +127,7 @@ An "awesome" list of the Ionic resources
 * [Ionic Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
 * [Ionic Advanced Components](https://github.com/yannbf/ionic2-components)
 * [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes)
+* [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
