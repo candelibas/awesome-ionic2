@@ -119,6 +119,7 @@ An "awesome" list of the Ionic resources
 #### Tools
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 * [Vim-ionic2](https://github.com/akz92/vim-ionic2)
+* [Ionic Vetur Intellisense](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components for tag and attribute autocompletion
 
 #### Video Tutorials
 * [Ionic Quickstart](https://www.udemy.com/ionic-2-quickstart/)
