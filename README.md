@@ -145,6 +145,7 @@ An "awesome" list of the Ionic resources
 * [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client)
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player)
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app)
+* [Ionic 5 WhatsApp clone](https://github.com/thenaim/ionic-whatsapp-clone) ![](v4.png) [NEW]
 * [Ionic 5 Social Network Starter](https://github.com/thenaim/ion-tk-social-network) ![](v4.png) [NEW]
 * [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum)
