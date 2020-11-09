@@ -115,6 +115,7 @@ An "awesome" list of the Ionic resources
 #### i18n & l10n
 * [Internationalize and Localize Your Ionic 4 App](https://enappd.com/blog/how-to-translate-in-ionic-4-globalization-internationalization-and-localization/11) ![](v4.png)
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
+* [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
 
 #### Tools
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
